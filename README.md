@@ -1,24 +1,19 @@
+### 👋 Привет, я [Ваше Имя/Никнейм]!
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masheka_real) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Daniel_Mashevskiy) 
+🚀 **Чем я занимаюсь:**
+*   Backend-разработчик на Python/Django.
+*   Увлекаюсь машинным обучением и анализом данных.
+*   Изучаю современные веб-технологии.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Nginx](https://img.shields.io/badge/apache-%23009639.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MashekaPatimeiker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MashekaPatimeiker&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MashekaPatimeiker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🛠 **Мой стек технологий:**
+*   **Языки:** Python, JavaScript, SQL
+*   **Фреймворки:** Django, FastAPI, React
+*   **Инструменты:** Git, Docker, PostgreSQL, Redis
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MashekaPatimeiker&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+📫 **Как со мной связаться:**
+[Email](mailto:your.email@example.com) | [Telegram](https://t.me/your_username) | [LinkedIn](https://www.linkedin.com/in/yourprofile/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+📊 **Моя статистика:**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MashekaPatimeiker&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=MashekaPatimeiker&icon=7&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
