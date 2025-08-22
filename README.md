@@ -1,4 +1,4 @@
-### [👨‍💻] Backend Developer | Network Enthusiast
+### Backend Developer | Network Enthusiast
 
 Hi, i'm Daniel. 
 Computer science student. 
