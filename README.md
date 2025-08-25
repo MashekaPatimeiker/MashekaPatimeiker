@@ -21,7 +21,7 @@ Computer science student.
 
 ---
 
-**📫 Как со мной связаться:**
+**📫 Contact info:**
 *   **Telegram:** [@masheka_real](https://t.me/masheka_real)
 *   **Email:** [danya.mashevskiy.98@bk.ru](mailto:danya.mashevskiy.98@bk.ru)
 *   **LinkedIn:** [Daniel](https://www.linkedin.com/in/daniel-mashevskiy-563445344/)
